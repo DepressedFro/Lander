@@ -1,2 +1,2 @@
 # Lander
-## Class learning excercise 
+In-Class Learning Excercise
